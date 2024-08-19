@@ -1,0 +1,4 @@
+__pycache__/
+*.rdb
+*.py[cod]
+products.json
